@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812816795263",
+    "project_id": "socail-work",
+    "storage_bucket": "socail-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812816795263:android:cf4d37ef9fc71a2cbce14a",
+        "android_client_info": {
+          "package_name": "com.mytaskbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUBL8_VbBkxJmkrL_LU-yoRlYTD2KVXS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
